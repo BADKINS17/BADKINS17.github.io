@@ -1,2 +1,4 @@
 # BADKINS17.github.io
-Bookmark this to see resume updates in future!
+theme:
+title:
+description: Bookmark this to see resume updates in future!
